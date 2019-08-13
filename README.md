@@ -1,5 +1,5 @@
 # pymail1.0
-a simple python script to send plain text emails to users listed in CSV file.
+A simple python script to send plain text emails to users listed in CSV file.
 
 Requirements:
 switch on less secure app on your gmail account here: https://myaccount.google.com/lesssecureapps
